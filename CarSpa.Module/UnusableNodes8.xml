@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="DetailServiceRequest_DetailView">
+      <Items Id="Items">
+        <PropertyEditor Id="User" Caption="User Create" />
+      </Items>
+      <Layout Id="Layout">
+        <LayoutGroup Id="Item2">
+          <LayoutGroup Id="Auto18ef0645-dbc3-4840-a74c-1c6e03f9f7ff">
+            <LayoutGroup Id="Auto5e90574f-40c0-46b6-8cdb-24117af2f43c">
+              <LayoutItem Id="Status" ViewItem="Status" />
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+        <LayoutGroup Id="Item1">
+          <LayoutGroup Id="Autob850a617-fdea-4eed-bc2b-4b7545d59096">
+            <LayoutItem Id="Machine" ViewItem="Machine" />
+            <LayoutItem Id="Customer" ViewItem="Customer" />
+          </LayoutGroup>
+          <LayoutGroup Id="Autofd68c735-3a7d-402a-8c1d-d368b20f5f8a">
+            <LayoutItem Id="MachineId" ViewItem="MachineId" />
+            <LayoutItem Id="CustomerId" ViewItem="CustomerId" />
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="ServiceRequest_DetailView">
+      <Items Id="Items">
+        <PropertyEditor Id="machine.MachineName" PropertyName="machine.MachineName" />
+        <PropertyEditor Id="customer.CustomerName" PropertyName="customer.CustomerName" />
+      </Items>
+    </DetailView>
+  </Views>
+</Application>

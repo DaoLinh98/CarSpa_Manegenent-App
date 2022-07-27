@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="DetailServiceRequest_DetailView">
+      <Items Id="Items">
+        <PropertyEditor Id="PartReceived.InventoryName" PropertyName="PartReceived.InventoryName" />
+      </Items>
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="DetailServiceRequest">
+              <LayoutGroup Id="Auto0d8fb281-6c2b-4de0-b0de-9113651df81a">
+                <LayoutGroup Id="Auto597538e9-6b2c-49a0-a103-004f81df92ee">
+                  <LayoutGroup Id="Autoe3dba68c-8112-4935-a6fb-6e9f4426ed21">
+                    <LayoutItem Id="PartReceived.InventoryName" ViewItem="PartReceived.InventoryName" />
+                  </LayoutGroup>
+                </LayoutGroup>
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>

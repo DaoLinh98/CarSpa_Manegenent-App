@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2E6D8EA9-57F6-489B-8B43-B550E3ADE99F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CarSpa.Module</RootNamespace>
+    <AssemblyName>CarSpa.Module</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'EasyTest|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\EasyTest\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;EASYTEST</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.Desktop.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.ConditionalAppearance.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.EF.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Notifications.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Objects.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Office.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Security.EF.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Security.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Validation.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.ViewVariantsModule.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Office.v20.1.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Persistent.Base.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Persistent.BaseImpl.EF.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Persistent.BaseImpl.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v20.1.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v20.1.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Spreadsheet.v20.1.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="NewMasterDatabase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>API\NewMasterDatabase.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>API\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>API\Office.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <Name>System.Configuration</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessObjects\Account.cs" />
+    <Compile Include="BusinessObjects\Add_Config.cs" />
+    <Compile Include="BusinessObjects\ApplicationUser.cs" />
+    <Compile Include="BusinessObjects\ApplicationUserLoginInfo.cs" />
+    <Compile Include="BusinessObjects\Customer.cs" />
+    <Compile Include="BusinessObjects\DetailServiceRequest.cs" />
+    <Compile Include="BusinessObjects\Inventory.cs" />
+    <Compile Include="BusinessObjects\Machine.cs" />
+    <Compile Include="BusinessObjects\Permission.cs" />
+    <Compile Include="BusinessObjects\Service.cs" />
+    <Compile Include="BusinessObjects\ServiceRequest.cs" />
+    <Compile Include="BusinessObjects\Status.cs" />
+    <Compile Include="BusinessObjects\User.cs" />
+    <Compile Include="CarSpaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CarSpaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CarSpaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CarSpaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\CustomerController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\CustomerController.Designer.cs">
+      <DependentUpon>CustomerController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\InventoryController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\InventoryController.Designer.cs">
+      <DependentUpon>InventoryController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\MachineController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\MachineController.Designer.cs">
+      <DependentUpon>MachineController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\reportGuiController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\reportGuiController.Designer.cs">
+      <DependentUpon>reportGuiController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\ServiceController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\ServiceController.Designer.cs">
+      <DependentUpon>ServiceController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\UsersController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\UsersController.Designer.cs">
+      <DependentUpon>UsersController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseUpdate\Updater.cs" />
+    <Compile Include="Module.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Module.Designer.cs">
+      <DependentUpon>Module.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ReportGui.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ReportGui.Designer.cs">
+      <DependentUpon>ReportGui.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ReportMachine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ReportMachine.Designer.cs">
+      <DependentUpon>ReportMachine.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controllers\CustomerController.resx">
+      <DependentUpon>CustomerController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\InventoryController.resx">
+      <DependentUpon>InventoryController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\MachineController.resx">
+      <DependentUpon>MachineController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\reportGuiController.resx">
+      <DependentUpon>reportGuiController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\ServiceController.resx">
+      <DependentUpon>ServiceController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\UsersController.resx">
+      <DependentUpon>UsersController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model.DesignedDiffs.xafml" />
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Report\ReportGui.resx">
+      <DependentUpon>ReportGui.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportMachine.resx">
+      <DependentUpon>ReportMachine.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="BusinessObjects\ReadMe.txt" />
+    <None Include="CarSpaDataSet.xsc">
+      <DependentUpon>CarSpaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CarSpaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CarSpaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CarSpaDataSet.xss">
+      <DependentUpon>CarSpaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CarSpaDataSet1.xsc">
+      <DependentUpon>CarSpaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="CarSpaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CarSpaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CarSpaDataSet1.xss">
+      <DependentUpon>CarSpaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Controllers\ReadMe.txt" />
+    <None Include="DatabaseUpdate\ReadMe.txt" />
+    <None Include="Images\ReadMe.txt" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FunctionalTests\config.xml" />
+    <None Include="FunctionalTests\sample.ets" />
+    <None Include="FunctionalTests\ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.configuration" />
+    <Compile Include="BusinessObjects\CarSpaDbContext.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Welcome.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="API\DataGridViewAutoFilter.dll" />
+    <Content Include="API\DevComponents.DotNetBar.SuperGrid.dll" />
+    <Content Include="API\DevComponents.DotNetBar.SuperGrid.xml" />
+    <Content Include="API\DevComponents.DotNetBar2.dll" />
+    <Content Include="API\DevComponents.DotNetBar2.xml" />
+    <Content Include="API\DevComponents.Instrumentation.dll" />
+    <Content Include="API\DevComponents.Instrumentation.xml" />
+    <Content Include="API\DevExpress.Charts.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.CodeParser.v21.1.dll" />
+    <Content Include="API\DevExpress.Data.Desktop.v21.1.dll" />
+    <Content Include="API\DevExpress.Data.Desktop.v21.1.xml" />
+    <Content Include="API\DevExpress.Data.v21.1.dll" />
+    <Content Include="API\DevExpress.Data.v21.1.xml" />
+    <Content Include="API\DevExpress.DataAccess.v21.1.dll" />
+    <Content Include="API\DevExpress.DataAccess.v21.1.xml" />
+    <Content Include="API\DevExpress.DataVisualization.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Docs.v21.1.dll" />
+    <Content Include="API\DevExpress.Docs.v21.1.xml" />
+    <Content Include="API\DevExpress.Office.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Office.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.Pdf.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Pdf.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.Pdf.v21.1.Drawing.dll" />
+    <Content Include="API\DevExpress.Pdf.v21.1.Drawing.xml" />
+    <Content Include="API\DevExpress.Printing.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Printing.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.RichEdit.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.RichEdit.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.Snap.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Snap.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.Sparkline.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Sparkline.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.Spreadsheet.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Spreadsheet.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.Utils.v21.1.dll" />
+    <Content Include="API\DevExpress.Utils.v21.1.xml" />
+    <Content Include="API\DevExpress.Xpo.v21.1.dll" />
+    <Content Include="API\DevExpress.Xpo.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraBars.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraBars.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraCharts.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraCharts.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraEditors.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraEditors.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraGrid.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraGrid.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraLayout.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraLayout.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraNavBar.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraNavBar.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraPrinting.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraPrinting.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraTreeList.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraTreeList.v21.1.xml" />
+    <Content Include="API\Microsoft.Exchange.WebServices.dll" />
+    <Content Include="API\Microsoft.Office.Interop.Excel.dll" />
+    <Content Include="API\NewMasterDatabase.dll" />
+    <Content Include="API\NewMasterDatabase.pdb" />
+    <Content Include="API\Newtonsoft.Json.dll" />
+    <Content Include="API\Newtonsoft.Json.xml" />
+    <Content Include="API\Office.dll" />
+    <Content Include="API\stdole.dll" />
+    <None Include="UnusableNodes8.xml">
+      <DependentUpon>Model.DesignedDiffs.xafml</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UnusableNodes7.xml">
+      <DependentUpon>Model.DesignedDiffs.xafml</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UnusableNodes6.xml">
+      <DependentUpon>Model.DesignedDiffs.xafml</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UnusableNodes5.xml">
+      <DependentUpon>Model.DesignedDiffs.xafml</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UnusableNodes4.xml">
+      <DependentUpon>Model.DesignedDiffs.xafml</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UnusableNodes3.xml">
+      <DependentUpon>Model.DesignedDiffs.xafml</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UnusableNodes2.xml">
+      <DependentUpon>Model.DesignedDiffs.xafml</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UnusableNodes1.xml">
+      <DependentUpon>Model.DesignedDiffs.xafml</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UnusableNodes.xml">
+      <DependentUpon>Model.DesignedDiffs.xafml</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

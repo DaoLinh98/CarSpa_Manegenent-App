@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="DetailServiceRequest_DetailView">
+      <Items Id="Items">
+        <PropertyEditor Id="ServiceId.ServiceName" PropertyName="ServiceId.ServiceName" />
+        <PropertyEditor Id="ServiceId.ServiceId" PropertyName="ServiceId.ServiceId" />
+        <PropertyEditor Id="RequestId.TotalCost" PropertyName="RequestId.TotalCost" />
+        <PropertyEditor Id="RequestId.Status" PropertyName="RequestId.Status" />
+        <PropertyEditor Id="RequestId.MachineId.MachineName" PropertyName="RequestId.MachineId.MachineName" />
+        <PropertyEditor Id="RequestId.MachineId.MachineId" PropertyName="RequestId.MachineId.MachineId" />
+        <PropertyEditor Id="RequestId.MachineId" PropertyName="RequestId.MachineId" />
+        <PropertyEditor Id="RequestId.CustomerId.CustomerName" PropertyName="RequestId.CustomerId.CustomerName" />
+        <PropertyEditor Id="RequestId.CustomerId.CustomerId" PropertyName="RequestId.CustomerId.CustomerId" />
+        <PropertyEditor Id="RequestId.CustomerId" PropertyName="RequestId.CustomerId" />
+        <PropertyEditor Id="PartId.PartName" PropertyName="PartId.PartName" />
+        <PropertyEditor Id="PartId.PartId" PropertyName="PartId.PartId" />
+      </Items>
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="DetailServiceRequest">
+              <LayoutGroup Id="Auto7ed6a4d4-8cd2-46ee-92c5-ebae50fac52b">
+                <LayoutGroup Id="Auto6d277ad9-f14f-42cf-82c6-63f23d949f60">
+                  <LayoutGroup Id="Item2">
+                    <LayoutGroup Id="Autod57258fa-125a-4c6c-8845-ccab7303a0a8">
+                      <LayoutGroup Id="Item4">
+                        <LayoutGroup Id="Auto163a9ddf-aa46-4087-ab50-7283b8d9e682">
+                          <LayoutGroup Id="Auto2caa62ee-e33d-4fea-b774-f0dde1f43142">
+                            <LayoutItem Id="RequestId.Status" ViewItem="RequestId.Status" />
+                          </LayoutGroup>
+                          <LayoutGroup Id="Auto90b6bd1c-6890-4db2-bf54-656ea5f4996f">
+                            <LayoutItem Id="PartId.PartName" ViewItem="PartId.PartName" />
+                          </LayoutGroup>
+                        </LayoutGroup>
+                        <LayoutGroup Id="Auto30dde760-c987-4ef1-a62c-a0fddae41785">
+                          <LayoutItem Id="ServiceId.ServiceName" ViewItem="ServiceId.ServiceName" />
+                        </LayoutGroup>
+                      </LayoutGroup>
+                    </LayoutGroup>
+                  </LayoutGroup>
+                </LayoutGroup>
+              </LayoutGroup>
+              <LayoutGroup Id="Auto7013cb75-0255-4e14-afc3-524a98f41d98">
+                <LayoutGroup Id="Item1">
+                  <LayoutGroup Id="Item3">
+                    <LayoutItem Id="RequestId.MachineId.MachineName" ViewItem="RequestId.MachineId.MachineName" />
+                    <LayoutItem Id="RequestId.MachineId" ViewItem="RequestId.MachineId" />
+                    <LayoutItem Id="RequestId.CustomerId.CustomerName" ViewItem="RequestId.CustomerId.CustomerName" />
+                    <LayoutItem Id="RequestId.CustomerId" ViewItem="RequestId.CustomerId" />
+                  </LayoutGroup>
+                </LayoutGroup>
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="DetailServiceRequest_DetailView">
+      <Items Id="Items">
+        <PropertyEditor Id="ServiceRequest.Status.StatusName" PropertyName="ServiceRequest.Status.StatusName" />
+        <PropertyEditor Id="ServiceRequest.Machine.MachineName" PropertyName="ServiceRequest.Machine.MachineName" />
+        <PropertyEditor Id="ServiceRequest.Machine.MachineId" PropertyName="ServiceRequest.Machine.MachineId" />
+        <PropertyEditor Id="ServiceRequest.CustomerId" PropertyName="ServiceRequest.CustomerId" />
+        <PropertyEditor Id="ServiceRequest.Customer.CustomerName" PropertyName="ServiceRequest.Customer.CustomerName" />
+        <PropertyEditor Id="ServiceRequest.Customer.CustomerId" PropertyName="ServiceRequest.Customer.CustomerId" />
+      </Items>
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="DetailServiceRequest">
+              <LayoutGroup Id="Auto28032671-870c-437d-a52b-a03a2b2e01f1">
+                <LayoutGroup Id="Auto65c54896-c4e4-4722-8d9a-cbd23398d68e">
+                  <LayoutGroup Id="Auto220104dd-38f8-486d-a781-e6f6cf24f7ca">
+                    <LayoutItem Id="ServiceRequest.Status.StatusName" ViewItem="ServiceRequest.Status.StatusName" />
+                  </LayoutGroup>
+                </LayoutGroup>
+              </LayoutGroup>
+              <LayoutGroup Id="Auto021955fb-e34c-4135-929a-2ca836f2b598">
+                <LayoutItem Id="ServiceRequest.Machine.MachineName" ViewItem="ServiceRequest.Machine.MachineName" />
+                <LayoutItem Id="ServiceRequest.Machine.MachineId" ViewItem="ServiceRequest.Machine.MachineId" />
+                <LayoutItem Id="ServiceRequest.Customer.CustomerName" ViewItem="ServiceRequest.Customer.CustomerName" />
+                <LayoutItem Id="ServiceRequest.Customer.CustomerId" ViewItem="ServiceRequest.Customer.CustomerId" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>

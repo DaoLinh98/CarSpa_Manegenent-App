@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <ListView Id="Users_ListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="UserId" PropertyName="UsersId" AllowEdit="True" />
+      </Columns>
+    </ListView>
+    <DetailView Id="Users_DetailView">
+      <Items Id="Items">
+        <PropertyEditor Id="UsersId" PropertyName="UsersId" />
+      </Items>
+    </DetailView>
+    <ListView Id="Permission_ContactsCollection_ListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="UsersId" PropertyName="UsersId" Index="0" Width="87" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>

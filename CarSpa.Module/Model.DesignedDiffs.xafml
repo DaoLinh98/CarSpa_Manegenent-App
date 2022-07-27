@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="CarSpa">
+  <ActionDesign>
+    <ActionToContainerMapping>
+      <ActionContainer Id="ActionGroup" Index="1" />
+    </ActionToContainerMapping>
+  </ActionDesign>
+  <BOModel>
+    <Class Name="User" DefaultListViewAllowEdit="True" DefaultLookupEditorMode="AllItems">
+      <OwnMembers>
+        <Member Name="UserId" ImmediatePostData="True" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <Options>
+    <Dashboards EnableCreation="True" />
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="20.1.3.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="Customer_ListView" MasterDetailMode="ListViewAndDetailView" ShowAutoFilterRow="True" />
+    <DetailView Id="DetailServiceRequest_DetailView" FreezeLayout="True" CaptionLocation="Top">
+      <Items>
+        <ActionContainerViewItem Id="@651a8421-40ed-4be7-b460-86f39f9cfe2f" PaintStyle="CaptionAndImage" Orientation="Vertical" ActionContainer="ActionGroup" Caption="@651a8421-40ed-4be7-b460-86f39f9cfe2f(33)" IsNewNode="True" />
+        <ActionContainerViewItem Id="Add" Caption="Add" PaintStyle="Caption" Orientation="Vertical" ActionContainer="ActionGroup" IsNewNode="True" />
+        <ActionContainerViewItem Id="Edit" Caption="Edit" ActionContainer="ActionGroup" IsNewNode="True" />
+        <PropertyEditor Id="Inventory" Caption="Part Name" />
+        <PropertyEditor Id="PartPrice" PropertyName="Inventory.Pricce" MaxLength="20" Caption="PartPricce" IsNewNode="True" />
+        <PropertyEditor Id="Price" PropertyName="Service.Price" Caption="Service Cost" IsNewNode="True" />
+        <ActionContainerViewItem Id="Quotation" Caption="Quotation" ActionContainer="ActionGroup" IsNewNode="True" />
+        <ActionContainerViewItem Id="Remove" Caption="Remove(35)" ActionContainer="ActionGroup" IsNewNode="True" />
+        <ActionContainerViewItem Id="Save" Caption="Save" ActionContainer="ActionGroup" IsNewNode="True" />
+        <ActionContainerViewItem Id="Update Status" Caption="Update Status" ActionContainer="ActionGroup" IsNewNode="True" />
+      </Items>
+      <Layout IsNewNode="True" Removed="True">
+        <LayoutGroup Id="Item1" ShowCaption="True" Direction="Horizontal" Index="0" RelativeSize="42.628774422735347" Caption="Infomations Table" IsNewNode="True">
+          <LayoutGroup Id="Autoc5d51187-8948-4298-9171-05a9cfc6a832" ShowCaption="False" Caption="Autoc5d51187-8948-4298-9171-05a9cfc6a832(2)" Index="0" RelativeSize="47.614991482112437" IsNewNode="True">
+            <LayoutItem Id="CustomerId" ViewItem="CustomerId" Index="0" RelativeSize="27.5" IsNewNode="True" />
+            <LayoutItem Id="MachineId" ViewItem="MachineId" Index="1" RelativeSize="22.5" IsNewNode="True" />
+            <LayoutItem Id="UserId" ViewItem="UserId" Index="2" RelativeSize="22.5" IsNewNode="True" />
+            <LayoutItem Id="RequestDate" ViewItem="RequestDate" Index="3" RelativeSize="27.5" IsNewNode="True" />
+          </LayoutGroup>
+          <LayoutGroup Id="Auto384ee02f-9dde-4db1-ba5d-64baf134f939" ShowCaption="False" Caption="Auto384ee02f-9dde-4db1-ba5d-64baf134f939(5)" Index="1" RelativeSize="52.385008517887563" IsNewNode="True">
+            <LayoutItem Id="Customer" ViewItem="Customer" Index="0" RelativeSize="27.5" IsNewNode="True" />
+            <LayoutItem Id="Machine" ViewItem="Machine" Index="1" RelativeSize="22.5" IsNewNode="True" />
+            <LayoutItem Id="User" ViewItem="User" Index="2" RelativeSize="22.5" IsNewNode="True" />
+            <LayoutItem Id="PartReceived" ViewItem="PartReceived" Index="3" RelativeSize="27.5" IsNewNode="True" />
+          </LayoutGroup>
+        </LayoutGroup>
+        <LayoutGroup Id="Item2" ShowCaption="True" Direction="Horizontal" Index="1" RelativeSize="45.47069271758437" Caption="Sevices Table" IsNewNode="True">
+          <LayoutGroup Id="Auto67da98c6-c162-403e-a9fd-ddd1485b0c72" ShowCaption="False" Caption="Auto67da98c6-c162-403e-a9fd-ddd1485b0c72(13)" Index="0" RelativeSize="44.4633730834753" IsNewNode="True">
+            <LayoutItem Id="ServiceId" ViewItem="ServiceId" Index="0" RelativeSize="24.336283185840706" IsNewNode="True" />
+            <LayoutItem Id="PartId" ViewItem="PartId" Index="1" RelativeSize="19.911504424778762" IsNewNode="True" />
+            <LayoutGroup Id="Auto156d060b-854a-4f19-9f44-bac53889c7cd" ShowCaption="False" Caption="" Direction="Horizontal" Index="2" RelativeSize="19.911504424778762" IsNewNode="True">
+              <LayoutItem Id="Price" ViewItem="Price" Index="0" RelativeSize="50" IsNewNode="True" />
+              <LayoutItem Id="PartPrice" ViewItem="PartPrice" Index="1" RelativeSize="50" IsNewNode="True" />
+            </LayoutGroup>
+            <LayoutGroup Id="Autodee6c65e-b757-48f9-acdc-0036fa3b6f92" ShowCaption="False" Caption="Autodee6c65e-b757-48f9-acdc-0036fa3b6f92(17)" Direction="Horizontal" Index="3" RelativeSize="35.840707964601769" IsNewNode="True">
+              <LayoutItem Id="Add" ViewItem="Add" Index="0" RelativeSize="25.862068965517242" ShowCaption="True" IsNewNode="True" />
+              <LayoutItem Id="Edit" ViewItem="Edit" Index="1" RelativeSize="24.712643678160919" ShowCaption="True" IsNewNode="True" />
+              <LayoutItem Id="Remove" ViewItem="Remove" Index="2" RelativeSize="24.712643678160919" ShowCaption="True" IsNewNode="True" />
+              <LayoutItem Id="Save" ViewItem="Save" Index="3" RelativeSize="24.712643678160919" ShowCaption="True" IsNewNode="True" />
+            </LayoutGroup>
+          </LayoutGroup>
+          <LayoutGroup Id="Autob41666ec-1d68-44fc-a99a-d6c3cb7726de" ShowCaption="False" Caption="Autob41666ec-1d68-44fc-a99a-d6c3cb7726de(22)" Index="1" RelativeSize="55.5366269165247" IsNewNode="True">
+            <LayoutItem Id="Service" ViewItem="Service" Index="0" RelativeSize="24.336283185840706" IsNewNode="True" />
+            <LayoutItem Id="Inventory" ViewItem="Inventory" Index="1" RelativeSize="19.911504424778762" IsNewNode="True" />
+            <LayoutGroup Id="Autod6e9bbad-8e19-4e92-83fa-806e1af4aae1" ShowCaption="False" Caption="Autod6e9bbad-8e19-4e92-83fa-806e1af4aae1(25)" Direction="Horizontal" Index="2" RelativeSize="27.43362831858407" IsNewNode="True">
+              <LayoutItem Id="Status" ViewItem="Status" Index="0" RelativeSize="79.294478527607367" IsNewNode="True" />
+              <LayoutItem Id="Update Status" ViewItem="Update Status" Index="1" RelativeSize="20.70552147239264" ShowCaption="True" IsNewNode="True" />
+            </LayoutGroup>
+            <LayoutGroup Id="Auto4dff0e0e-0a1e-4cf0-9c9f-562bb61809e9" ShowCaption="False" Caption="Auto4dff0e0e-0a1e-4cf0-9c9f-562bb61809e9(28)" Direction="Horizontal" Index="3" RelativeSize="28.318584070796462" IsNewNode="True">
+              <LayoutItem Id="Quantity" ViewItem="Quantity" Index="0" RelativeSize="79.294478527607367" IsNewNode="True" />
+              <LayoutItem Id="Quotation" ViewItem="Quotation" Index="1" RelativeSize="20.70552147239264" ShowCaption="True" IsNewNode="True" />
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+        <LayoutItem Id="TotalCost" ViewItem="TotalCost" Index="2" RelativeSize="7.9928952042628776" IsNewNode="True" />
+        <LayoutGroup Id="Main" ShowCaption="False" Index="3" RelativeSize="3.9076376554174068" IsNewNode="True" />
+      </Layout>
+    </DetailView>
+    <ListView Id="DetailServiceRequest_ListView" MasterDetailMode="ListViewAndDetailView" NewItemRowPosition="Top" ShowAutoFilterRow="True" ShowFindPanel="False" />
+    <ListView Id="Inventory_ListView" MasterDetailMode="ListViewAndDetailView" ShowAutoFilterRow="True" />
+    <ListView Id="Machine_ListView" MasterDetailMode="ListViewAndDetailView" NewItemRowPosition="Top" ShowAutoFilterRow="True" />
+    <ListView Id="Permission_ListView" MasterDetailMode="ListViewAndDetailView" NewItemRowPosition="Top" ShowAutoFilterRow="True" />
+    <ListView Id="Service_ListView" MasterDetailMode="ListViewAndDetailView" NewItemRowPosition="Top" ShowAutoFilterRow="True" />
+    <ListView Id="Status_ListView" MasterDetailMode="ListViewAndDetailView" ShowAutoFilterRow="True" ClassName="DevExpress.Persistent.Validation.RuleValueComparisonProperties" />
+    <ListView Id="Status_LookupListView" MasterDetailMode="ListViewAndDetailView" NewItemRowPosition="Top" ShowAutoFilterRow="True" />
+    <ListView Id="User_ListView" MasterDetailMode="ListViewAndDetailView" NewItemRowPosition="Top" ShowAutoFilterRow="True" />
+  </Views>
+</Application>

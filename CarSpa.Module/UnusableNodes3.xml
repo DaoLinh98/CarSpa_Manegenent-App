@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel Id="BOModel">
+    <Class Name="Users" DefaultListViewAllowEdit="True" />
+  </BOModel>
+  <Views Id="Views">
+    <ListView Id="Permission_ContactsCollection_ListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="UsersName" Width="169" SortIndex="-1" SortOrder="None" Index="1" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>

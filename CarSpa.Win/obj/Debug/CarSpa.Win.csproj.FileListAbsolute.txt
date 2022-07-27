@@ -1,0 +1,459 @@
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Model.xafml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Win.exe.config
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Win.exe
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Win.pdb
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.Win.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\NewMasterDatabase.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\EntityFramework.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\EntityFramework.SqlServer.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Images.v20.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Docs.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Spreadsheet.v21.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DataGridViewAutoFilter.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Newtonsoft.Json.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Data.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Snap.v21.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\stdole.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Xpo.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.CodeParser.v21.1.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.Win.pdb
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.pdb
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\NewMasterDatabase.pdb
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\EntityFramework.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\EntityFramework.SqlServer.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Docs.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Spreadsheet.v21.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Newtonsoft.Json.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Data.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Snap.v21.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.csprojAssemblyReference.cache
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.XafSplashScreen.resources
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.csproj.GenerateResource.cache
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.exe.licenses
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.csproj.CoreCompileInputs.cache
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.csproj.CopyComplete
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.exe
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.pdb
+D:\DVP\Internship\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.dll.config
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Model.xafml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Win.exe.config
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Win.exe
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Win.pdb
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.Win.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\NewMasterDatabase.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\EntityFramework.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Images.v20.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Docs.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Spreadsheet.v21.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DataGridViewAutoFilter.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Newtonsoft.Json.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Snap.v21.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\stdole.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Xpo.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.CodeParser.v21.1.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.Win.pdb
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.pdb
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.dll.config
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\NewMasterDatabase.pdb
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\EntityFramework.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Docs.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Spreadsheet.v21.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Newtonsoft.Json.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Snap.v21.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.csprojAssemblyReference.cache
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.XafSplashScreen.resources
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.csproj.GenerateResource.cache
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.exe.licenses
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.csproj.CoreCompileInputs.cache
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.csproj.CopyComplete
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.exe
+D:\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Model.xafml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Win.exe.config
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Win.exe
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Win.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.Win.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\NewMasterDatabase.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\EntityFramework.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Images.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Docs.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Spreadsheet.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DataGridViewAutoFilter.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Newtonsoft.Json.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Data.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Snap.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\stdole.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Xpo.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.CodeParser.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.Win.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\CarSpa.Module.dll.config
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\NewMasterDatabase.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\EntityFramework.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Docs.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Spreadsheet.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\Newtonsoft.Json.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Data.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Snap.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.csprojAssemblyReference.cache
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.XafSplashScreen.resources
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.csproj.GenerateResource.cache
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.exe.licenses
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.csproj.CopyComplete
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.exe
+D:\WorkSpace\Project XAF (entityframeWork)\CarSpa_Project\CarSpa\CarSpa.Win\obj\Debug\CarSpa.Win.pdb
